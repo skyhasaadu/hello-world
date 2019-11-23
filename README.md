@@ -1,6 +1,6 @@
 # hello-world
 
-Tell all the truth but tell it slant<br/>
+Tell all the truth but tell it slant —<br/>
 Success in Circuit lies<br/>
 Too bright for our infirm Delight<br/>
 The Truth's superb surprise<br/>
