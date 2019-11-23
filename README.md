@@ -1,7 +1,9 @@
 # hello-world
 
-Tell all the truth but tell it slant —/n
-Success in Circuit lies/n
+Tell all the truth but tell it slant
+
+Success in Circuit lies
+
 Too bright for our infirm Delight
 The Truth's superb surprise
 As Lightning to the Children eased
